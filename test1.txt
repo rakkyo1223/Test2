@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-=======
-abcdefg
->>>>>>> master
+
+bduyieguewff
